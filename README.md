@@ -30,6 +30,9 @@
 
 Open-source orchestration for teams of AI agents.
 
+> **Variante Termux:** este fork inclui instalação e execução no Android via
+> [Termux](doc/TERMUX.md), com PostgreSQL nativo e servidor em foreground.
+
 **If OpenClaw is an _employee_, Paperclip is the _company_.**
 
 Paperclip is a Node.js server and React UI that orchestrates a team of AI agents to run a business. Bring your own agents, assign goals, and track work and costs from one dashboard.
